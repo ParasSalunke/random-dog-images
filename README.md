@@ -26,13 +26,13 @@ This project fetches and displays random dog images using the Dog API.
 
 1. Start the application:
     ```sh
-    npm start
+    npm run dev
     ```
 2. Open your browser and navigate to `http://localhost:5173` to see random dog images.
 
 ## API Reference
 
-- [Dog API](https://thedogapi.com/)
+- [Dog API](https://dog.ceo/dog-api/)
 
 ## Contributing
 
